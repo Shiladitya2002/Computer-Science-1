@@ -1,0 +1,5 @@
+# depslib dependency file v1.0
+1519185425 source:d:\c++ workspace\numeric processing\main.cpp
+	<iostream>
+	<fstream>
+

@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1517975429 source:d:\c++ workspace\math tutor 2\main.cpp
+	<iostream>
+	<cstdlib>
+	<ctime>
+	<iomanip>
+

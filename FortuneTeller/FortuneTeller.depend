@@ -1,0 +1,7 @@
+# depslib dependency file v1.0
+1514140574 source:d:\c++ workspace\fortuneteller\main.cpp
+	<iostream>
+
+1516334886 source:d:\c++ workspace\fortuneteller\src\fortuneteller.cpp
+	<iostream>
+
